@@ -171,13 +171,13 @@ export default function Footer() {
             <div style={{ display: "grid", gap: 8, opacity: 0.92 }}>
               <div>
                 <span style={{ fontWeight: 700 }}>Email:</span>{" "}
-                <a href="mailto:hello@bluepeak.example" style={{ color: "rgba(255,255,255,0.92)" }}>
+                <a href="mailto:cs@bluewave.example" style={{ color: "rgba(255,255,255,0.92)" }}>
                   cs@bluewave.example
                 </a>
               </div>
               <div>
                 <span style={{ fontWeight: 700 }}>Phone:</span>{" "}
-                <a href="tel:+10000000000" style={{ color: "rgba(255,255,255,0.92)" }}>
+                <a href="tel:+12345678901" style={{ color: "rgba(255,255,255,0.92)" }}>
                   +1 (234) 567-8901
                 </a>
               </div>
