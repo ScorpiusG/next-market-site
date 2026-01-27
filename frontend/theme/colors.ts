@@ -30,9 +30,9 @@ export type ThemeColors = {
 
 export const colors: ThemeColors = {
   // Brand palette (cooling blue)
-  primary: "#143CFF",     // header gradient top-ish
+  primary: "#2450FF",     // header gradient top-ish
   secondary: "#1050FF",   // main theme
-  accent: "#5DF",         // cyan-ish nav text
+  accent: "#38F",         // cyan-ish nav text
 
   // Text
   text: "#0B1220",

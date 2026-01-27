@@ -220,6 +220,7 @@ export default function AboutPage() {
                 background: colors.buttonBg,
                 boxShadow: "0 14px 34px rgba(16, 80, 255, 0.30)",
                 border: "1px solid rgba(255,255,255,0.22)",
+                zIndex: 10,
               }}
             >
               Request a Quote
@@ -238,6 +239,7 @@ export default function AboutPage() {
                 border: "1px solid rgba(255,255,255,0.22)",
                 backdropFilter: "blur(10px)",
                 WebkitBackdropFilter: "blur(10px)",
+                zIndex: 10,
               }}
             >
               View Services
